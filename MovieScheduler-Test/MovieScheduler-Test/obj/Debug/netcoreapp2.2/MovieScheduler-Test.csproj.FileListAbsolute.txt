@@ -1,0 +1,11 @@
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\bin\Debug\netcoreapp2.2\MovieScheduler-Test.deps.json
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\bin\Debug\netcoreapp2.2\MovieScheduler-Test.runtimeconfig.json
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\bin\Debug\netcoreapp2.2\MovieScheduler-Test.runtimeconfig.dev.json
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\bin\Debug\netcoreapp2.2\MovieScheduler-Test.dll
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\bin\Debug\netcoreapp2.2\MovieScheduler-Test.pdb
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\obj\Debug\netcoreapp2.2\MovieScheduler-Test.csprojResolveAssemblyReference.cache
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\obj\Debug\netcoreapp2.2\MovieScheduler-Test.csproj.CoreCompileInputs.cache
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\obj\Debug\netcoreapp2.2\MovieScheduler-Test.AssemblyInfoInputs.cache
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\obj\Debug\netcoreapp2.2\MovieScheduler-Test.AssemblyInfo.cs
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\obj\Debug\netcoreapp2.2\MovieScheduler-Test.dll
+c:\users\mallanki\source\repos\MovieScheduler-Test\MovieScheduler-Test\obj\Debug\netcoreapp2.2\MovieScheduler-Test.pdb
